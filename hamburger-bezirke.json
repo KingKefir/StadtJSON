@@ -1,0 +1,458 @@
+{   
+    "source": "https://www.spendenparlament.de/projekte/projektdatenbank/testseite/",
+    "Stadt": "Hamburg",
+    "Bezirke": [
+      {
+        "Bezirk": "Hamburg-Mitte",
+        "Stadtteile": [
+          {
+            "name": "Hamburg-Altstadt",
+            "Postleitzahlen": [20095, 20099, 20457, 20459]
+          },
+          {
+            "name": "HafenCity",
+            "Postleitzahlen": [20457, 20539]
+          },
+          {
+            "name": "Neustadt",
+            "Postleitzahlen": [20354, 20355, 20359, 20457, 20459]
+          },
+          {
+            "name": "St. Pauli",
+            "Postleitzahlen": [20354, 20355, 20357, 20359, 20459, 22767, 22769]
+          },
+          {
+            "name": "St. Georg",
+            "Postleitzahlen": [20095, 20097, 20099]
+          },
+          {
+            "name": "Hammerbrook",
+            "Postleitzahlen": [20097, 20537]
+          },
+          {
+            "name": "Borgfelde",
+            "Postleitzahlen": [20535, 20537]
+          },
+          {
+            "name": "Hamm",
+            "Postleitzahlen": [20537, 20535, 22087, 22089]
+          },
+          {
+            "name": "Horn",
+            "Postleitzahlen": [22111, 22113, 22119]
+          },
+          {
+            "name": "Billstedt",
+            "Postleitzahlen": [22111, 22113, 22115, 22117, 22119]
+          },
+          {
+            "name": "Billbrook",
+            "Postleitzahlen": [22111, 22113]
+          },
+          {
+            "name": "Rothenburgsort",
+            "Postleitzahlen": [20539]
+          },
+          {
+            "name": "Veddel",
+            "Postleitzahlen": [22539, 21109]
+          },
+          {
+            "name": "Wilhelmsburg",
+            "Postleitzahlen": [20539, 21107, 21109]
+          },
+          {
+            "name": "Kleiner Grasbrook",
+            "Postleitzahlen": [20457, 20539]
+          },
+          {
+            "name": "Steinwerder",
+            "Postleitzahlen": [20457, 21107]
+          },
+          {
+            "name": "Waltershof",
+            "Postleitzahlen": [21129]
+          },
+          {
+            "name": "Finkenwerder",
+            "Postleitzahlen": [21129]
+          },
+          {
+            "name": "Neuwerk",
+            "Postleitzahlen": [27499]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Altona",
+        "Stadtteile": [
+          {
+            "name": "Altona-Altstadt",
+            "Postleitzahlen": [20357, 20359, 22765, 22767, 22769]
+          },
+          {
+            "name": "Sternschanze",
+            "Postleitzahlen": [20357]
+          },
+          {
+            "name": "Altona-Nord",
+            "Postleitzahlen": [20257, 20357, 22765, 22769]
+          },
+          {
+            "name": "Ottensen",
+            "Postleitzahlen": [22763, 22765, 22767]
+          },
+          {
+            "name": "Bahrenfeld",
+            "Postleitzahlen": [22525, 22547, 22549, 22605, 22607, 22761, 22769]
+          },
+          {
+            "name": "Groß Flottbek",
+            "Postleitzahlen": [22605, 22607, 22609]
+          },
+          {
+            "name": "Othmarschen",
+            "Postleitzahlen": [22605, 22607, 22609, 22763]
+          },
+          {
+            "name": "Lurup",
+            "Postleitzahlen": [22525, 22547, 22549]
+          },
+          {
+            "name": "Osdorf",
+            "Postleitzahlen": [22547, 22549, 22587, 22589, 22609]
+          },
+          {
+            "name": "Nienstedten",
+            "Postleitzahlen": [22587, 22607, 22609]
+          },
+          {
+            "name": "Blankenese",
+            "Postleitzahlen": [22587, 22589]
+          },
+          {
+            "name": "Iserbrook",
+            "Postleitzahlen": [22589]
+          },
+          {
+            "name": "Sülldorf",
+            "Postleitzahlen": [22587, 22589]
+          },
+          {
+            "name": "Rissen",
+            "Postleitzahlen": [22559, 22587]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Eimsbüttel",
+        "Stadtteile": [
+          {
+            "name": "Eimsbüttel",
+            "Postleitzahlen": [20144, 20253, 20255, 20257, 20259, 20357, 22525, 22527, 22769]
+          },
+          {
+            "name": "Rotherbaum",
+            "Postleitzahlen": [20144, 20146, 20148, 20149, 20354, 20357]
+          },
+          {
+            "name": "Harvestehude",
+            "Postleitzahlen": [20144, 20146, 20148, 20149, 20249, 20253]
+          },
+          {
+            "name": "Hoheluft-West",
+            "Postleitzahlen": [20253, 20255, 22529]
+          },
+          {
+            "name": "Lokstedt",
+            "Postleitzahlen": [20253, 20255, 22527, 22529]
+          },
+          {
+            "name": "Niendorf",
+            "Postleitzahlen": [22453, 22455, 22457, 22459, 22529]
+          },
+          {
+            "name": "Schnelsen",
+            "Postleitzahlen": [22455, 22457, 22459]
+          },
+          {
+            "name": "Eidelstedt",
+            "Postleitzahlen": [22457, 22523, 22525, 22527, 22547]
+          },
+          {
+            "name": "Stellingen",
+            "Postleitzahlen": [20255, 22525, 22527, 22529, 22769]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Hamburg-Nord",
+        "Stadtteile": [
+          {
+            "name": "Hoheluft-Ost",
+            "Postleitzahlen": [20144, 20249, 20251, 20253]
+          },
+          {
+            "name": "Eppendorf",
+            "Postleitzahlen": [20249, 20251, 22529]
+          },
+          {
+            "name": "Groß Borstel",
+            "Postleitzahlen": [22297, 22335, 22453, 22529]
+          },
+          {
+            "name": "Alsterdorf",
+            "Postleitzahlen": [20251, 22297, 22335, 22337]
+          },
+          {
+            "name": "Winterhude",
+            "Postleitzahlen": [20249, 22297, 22299, 22301, 22303, 22305]
+          },
+          {
+            "name": "Uhlenhorst",
+            "Postleitzahlen": [22081, 22085, 22087]
+          },
+          {
+            "name": "Hohenfelde",
+            "Postleitzahlen": [22087, 22089]
+          },
+          {
+            "name": "Barmbek-Süd",
+            "Postleitzahlen": [22081, 22083, 22085, 22305]
+          },
+          {
+            "name": "Dulsberg",
+            "Postleitzahlen": [22049]
+          },
+          {
+            "name": "Barmbek-Nord",
+            "Postleitzahlen": [22297, 22303, 22305, 22307, 22309]
+          },
+          {
+            "name": "Ohlsdorf",
+            "Postleitzahlen": [22309, 22335, 22337, 22391]
+          },
+          {
+            "name": "Fuhlsbüttel",
+            "Postleitzahlen": [22335, 22339, 22415, 22453]
+          },
+          {
+            "name": "Langenhorn",
+            "Postleitzahlen": [22415, 22417, 22419]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Wandsbek",
+        "Stadtteile": [
+          {
+            "name": "Eilbek",
+            "Postleitzahlen": [22087, 22089]
+          },
+          {
+            "name": "Wandsbek",
+            "Postleitzahlen": [22041, 22047, 22049, 22089]
+          },
+          {
+            "name": "Marienthal",
+            "Postleitzahlen": [22041, 22043, 22089]
+          },
+          {
+            "name": "Jenfeld",
+            "Postleitzahlen": [22043, 22045]
+          },
+          {
+            "name": "Tonndorf",
+            "Postleitzahlen": [22041, 22043, 22045, 22047, 22149, 22159]
+          },
+          {
+            "name": "Farmsen-Berne",
+            "Postleitzahlen": [22145, 22159]
+          },
+          {
+            "name": "Bramfeld",
+            "Postleitzahlen": [22047, 22159, 22175, 22177, 22179, 22309, 22391, 22393]
+          },
+          {
+            "name": "Steilshoop",
+            "Postleitzahlen": [22177, 22309]
+          },
+          {
+            "name": "Wellingsbüttel",
+            "Postleitzahlen": [22391, 22393]
+          },
+          {
+            "name": "Sasel",
+            "Postleitzahlen": [22159, 22391, 22393, 22395]
+          },
+          {
+            "name": "Poppenbüttel",
+            "Postleitzahlen": [22391, 22393, 22395, 22399]
+          },
+          {
+            "name": "Hummelsbüttel",
+            "Postleitzahlen": [22339, 22391, 22399, 22415, 22417]
+          },
+          {
+            "name": "Lemsahl-Mellingstedt",
+            "Postleitzahlen": [22397, 22399]
+          },
+          {
+            "name": "Duvenstedt",
+            "Postleitzahlen": [22397]
+          },
+          {
+            "name": "Wohldorf-Ohlstedt",
+            "Postleitzahlen": [22395, 22397]
+          },
+          {
+            "name": "Bergstedt",
+            "Postleitzahlen": [22359, 22395]
+          },
+          {
+            "name": "Volksdorf",
+            "Postleitzahlen": [22359]
+          },
+          {
+            "name": "Rahlstedt",
+            "Postleitzahlen": [22143, 22145, 22147, 22149, 22359]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Bergedorf",
+        "Stadtteile": [
+          {
+            "name": "Lohbrügge",
+            "Postleitzahlen": [21031, 21033, 22113, 22115]
+          },
+          {
+            "name": "Bergedorf",
+            "Postleitzahlen": [21029, 21031, 21033, 21035, 21039]
+          },
+          {
+            "name": "Curslack",
+            "Postleitzahlen": [21029, 21037, 21039]
+          },
+          {
+            "name": "Altengamme",
+            "Postleitzahlen": [21029, 21039]
+          },
+          {
+            "name": "Neuengamme",
+            "Postleitzahlen": [21037, 21039]
+          },
+          {
+            "name": "Kirchwerder",
+            "Postleitzahlen": [21037]
+          },
+          {
+            "name": "Ochsenwerder",
+            "Postleitzahlen": [21037]
+          },
+          {
+            "name": "Reitbrook",
+            "Postleitzahlen": [21037]
+          },
+          {
+            "name": "Allermöhe",
+            "Postleitzahlen": [21035, 21037, 22113]
+          },
+          {
+            "name": "Billwerder",
+            "Postleitzahlen": [21033, 21035, 22113]
+          },
+          {
+            "name": "Moorfleet",
+            "Postleitzahlen": [22113]
+          },
+          {
+            "name": "Tatenberg",
+            "Postleitzahlen": [21037]
+          },
+          {
+            "name": "Spadenland",
+            "Postleitzahlen": [21037]
+          },
+          {
+            "name": "Neuallermöhe",
+            "Postleitzahlen": [21035]
+          }
+        ]
+      },
+      {
+        "Bezirk": "Harburg",
+        "Stadtteile": [
+          {
+            "name": "Harburg",
+            "Postleitzahlen": [21073, 21075, 21079]
+          },
+          {
+            "name": "Neuland",
+            "Postleitzahlen": [21079]
+          },
+          {
+            "name": "Gut Moor",
+            "Postleitzahlen": [21079]
+          },
+          {
+            "name": "Wilstorf",
+            "Postleitzahlen": [21073, 21077, 21079]
+          },
+          {
+            "name": "Rönneburg",
+            "Postleitzahlen": [21077, 21079]
+          },
+          {
+            "name": "Langenbek",
+            "Postleitzahlen": [21077, 21079]
+          },
+          {
+            "name": "Sinstorf",
+            "Postleitzahlen": [21077, 21079]
+          },
+          {
+            "name": "Marmstorf",
+            "Postleitzahlen": [21077]
+          },
+          {
+            "name": "Eißendorf",
+            "Postleitzahlen": [21073, 21075, 21077]
+          },
+          {
+            "name": "Heimfeld",
+            "Postleitzahlen": [21073, 21075, 21079]
+          },
+          {
+            "name": "Moorburg",
+            "Postleitzahlen": [21079, 21129]
+          },
+          {
+            "name": "Altenwerder",
+            "Postleitzahlen": [21129]
+          },
+          {
+            "name": "Hausbruch",
+            "Postleitzahlen": [21075, 21079, 21147, 21149]
+          },
+          {
+            "name": "Neugraben-Fischbek",
+            "Postleitzahlen": [21147, 21149]
+          },
+          {
+            "name": "Francop",
+            "Postleitzahlen": [21129]
+          },
+          {
+            "name": "Neuenfelde",
+            "Postleitzahlen": [21129]
+          },
+          {
+            "name": "Cranz",
+            "Postleitzahlen": [21129]
+          }
+        ]
+      }
+      
+    ]
+  }
