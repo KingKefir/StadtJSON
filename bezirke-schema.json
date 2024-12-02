@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Bezirk": {
+      "type": "string",
+      "description": "The name of the district (Bezirk)"
+    },
+    "Stadtteile": {
+      "type": "array",
+      "description": "The list of neighborhoods (Stadtteile) in the district",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The name of the neighborhood (Stadtteil)"
+          },
+          "Postleitzahlen": {
+            "type": "array",
+            "description": "The postal codes (Postleitzahlen) associated with the neighborhood",
+            "items": {
+              "type": "integer",
+              "description": "A postal code"
+            }
+          }
+        },
+        "required": ["name", "Postleitzahlen"]
+      }
+    }
+  },
+  "required": ["Bezirk", "Stadtteile"]
+}
